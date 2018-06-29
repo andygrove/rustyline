@@ -1,5 +1,5 @@
 [package]
-name = "rustyline-nightly"
+name = "datafusion-rustyline"
 version = "2.0.0-alpha-20180628"
 authors = ["Katsu Kawakami <kkawa1570@gmail.com>"]
 description = "Unofficial nightly releases of Rustyline"
