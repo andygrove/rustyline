@@ -1,10 +1,10 @@
 [package]
-name = "rustyline"
-version = "2.0.0-alpha"
+name = "rustyline-nightly"
+version = "2.0.0-alpha-20180628"
 authors = ["Katsu Kawakami <kkawa1570@gmail.com>"]
-description = "Rustyline, a readline implementation based on Antirez's Linenoise"
+description = "Unofficial nightly releases of Rustyline"
 documentation = "http://docs.rs/rustyline"
-repository = "https://github.com/kkawakam/rustyline"
+repository = "https://github.com/datafusion-rs/rustyline"
 readme = "README.md"
 keywords = ["readline"]
 license = "MIT"
